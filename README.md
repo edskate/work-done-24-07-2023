@@ -17,3 +17,8 @@ O conteúdo menciona "Choriography 1" e "Test 2", que parecem ser títulos ou no
 | Training at 18:00  |  Show at 21:00 |
 | Photos 10:00       | at 11:00
 |       Day off         |       Work        |
+| 25/07/2023     |  Tuesdey  |
+|    Jan        |    Abizael     |
+|    21💯      |    21💯    |
+|   B: OK  🕺     |  Thr:OK 🕺   |
+
